@@ -1,0 +1,15 @@
+.list {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-right: auto;
+    padding: 0;
+    list-style-type: none;
+  }
+  
+  .btn {
+    position: absolute;
+    left: 180px;
+    bottom: 50px;
+    border-radius: 8px;
+  }
